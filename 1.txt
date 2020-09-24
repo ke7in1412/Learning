@@ -1,6 +1,6 @@
-pwd //查看当前目录，
-CD //转到相应目录
-git init //将目录变成Git可以管理的仓库
-git status //查看仓库状态
-git add //将文件加入库
-git commit -m"内容说明"//将文件提交仓库
+pwd //view current directory
+CD //go to directory
+git init //turn the directory into git warehouse
+git status //view the status of warehouse
+git add //add files to the  warehouse
+git commit -m"Description"//commit the files to the warehouse and descript them
