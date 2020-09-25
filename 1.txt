@@ -9,3 +9,5 @@ git reset --hard xxxxx //xxxxx means the NO. of the version
 git log //view every version of the repository
 cat 1.txt //view the content of the file
 git reflog //view every change of the version of the repository
+git remote add origin git@github.com:ke7in1412/learning.git//conect git with github successfully
+git push origin master //to commit the change to github 
