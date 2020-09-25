@@ -1,6 +1,9 @@
 pwd //view current directory
 CD //go to directory
-git init //turn the directory into git warehouse
-git status //view the status of warehouse
-git add //add files to the  warehouse
-git commit -m"Description"//commit the files to the warehouse and descript them
+git init //turn the directory into git repository
+git status //view the status of repository
+git add //add files to the  repository
+git commit -m"Description"//commit the files to the repository and descript them
+git reset --hard head^ //head means the current version, head^ means the last version
+git log //view every version of the repository
+cat 1.txt //view the content of the file
